@@ -2,7 +2,7 @@ import React from 'react'
 
 const writeArticle = () => {
   return (
-    <div>writeArticle</div>
+    <div>WriteArticle</div>
   )
 }
 
