@@ -1,9 +1,9 @@
 import React from 'react'
 
-const removeBackground = () => {
+const RemoveBackground = () => {
   return (
-    <div>removeBackground</div>
+    <div>R</div>
   )
 }
 
-export default removeBackground
+export default R

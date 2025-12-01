@@ -1,8 +1,11 @@
 import React from 'react'
+import { Outlet } from 'react-router-dom'
 
-const layout = () => {
+const Layout = () => {
   return (
-    <div>layout</div>
+    <div> <h1>layout</h1>
+        <Outlet />
+    </div>
   )
 }
 

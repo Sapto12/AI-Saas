@@ -1,9 +1,9 @@
 import React from 'react'
 
-const reviewResume = () => {
+const ReviewResume = () => {
   return (
-    <div>reviewResume</div>
+    <div>R</div>
   )
 }
 
-export default reviewResume
+export default R
