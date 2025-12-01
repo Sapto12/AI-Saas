@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Comunity = () => {
+const comunity = () => {
   return (
-    <div>C</div>
+    <div>comunity</div>
   )
 }
 
-export default C
+export default comunity

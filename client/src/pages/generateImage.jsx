@@ -1,9 +1,9 @@
 import React from 'react'
 
-const GenerateImage = () => {
+const generateImage = () => {
   return (
-    <div>G</div>
+    <div>generateImage</div>
   )
 }
 
-export default G
+export default generateImage
