@@ -1,9 +1,14 @@
+import { User } from 'lucide-react'
 import React from 'react'
+import NavBar from '../components/NavBar'
 
 const removeBackground = () => {
   return (
-    <div>removeBackground</div>
-  )
-}
+    <>
+ 
+  
+    </>
+    )
+  }
 
-export default removeBackground
+  export default removeBackground
