@@ -1,5 +1,5 @@
 import Home from './pages/home'
-import Layout from './pages/layout'
+import Layout from './pages/Layout'
 import Dashboard from './pages/dashboard'
 import WriteArticle from './pages/writeArticle'
 import BlogTitle from './pages/blogTitle'
